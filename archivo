@@ -1,0 +1,6 @@
+/* Hello word progra */
+#include<stdio.h>
+int main ()
+{
+printf("Hello word");
+}
